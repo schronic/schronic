@@ -1,0 +1,73 @@
+.flat-box {
+  display: flex;
+  font-size: 15px;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  flex-basis: 50%;
+}
+
+.banner-flat {
+  height: 50vh;
+  background-size: cover;
+  background-position: center;
+}
+
+.img-flats {
+  width: 60px;
+}
+
+.flat-container {
+  display: flex;
+}
+
+.booking-box {
+  background-color: gray;
+  flex-basis: 30%;
+  margin: 20px;
+  text-align: center;
+}
+
+.wrapper-flexbox {
+  display: flex;
+  justify-content: space-around;
+  margin: 50px 50px;
+}
+
+.box-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.user-info {
+  margin: 10px;
+
+  p {
+    margin: 0px;
+  }
+}
+
+.flat-info {
+  margin: 10px;
+}
+
+.select {
+  width: 100%;
+  margin: 6px 10px;
+}
+
+.submit {
+  width: 100%;
+  margin: 6px 10px;
+}
+
+.input {
+  width: 30%;
+  margin: 6px 10px;
+}
+
+.form-group {
+  border-radius: 3px;
+}
